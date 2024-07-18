@@ -1,4 +1,4 @@
-# Heart_Disease_Prediction
+# Heart_Disease_Prediction using Machine Learning with Python
 This project aims to predict the likelihood of heart disease using a logistic regression model. It includes extensive data preprocessing, model training, and evaluation to ensure high accuracy and reliability in the predictions.
 
 Key Features
